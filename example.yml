@@ -1,8 +1,8 @@
 name: Initial_Collection
 cartridges:
-  - folder: FOSS Java
+    folder: FOSS Java
     cartridge:
       url: https://github.com/Accenture/adop-cartridge-java.git
-  - folder: Cartridge Development Cartridge
+    folder: Cartridge Development Cartridge
     cartridge:
       url: https://github.com/Accenture/adop-cartridge-cartridge-dev.git
