@@ -1,0 +1,15 @@
+{
+	"name": "my_collection",
+	"cartridges": [
+		{ "folder": "A",
+		  "cartridge": {
+			"url": "some_url"
+		  }
+		},
+		{ "folder": "B",
+		  "cartridge": {
+			"url": "some_url_2"
+		  }
+		}
+	]
+}
