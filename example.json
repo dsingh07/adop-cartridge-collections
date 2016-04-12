@@ -1,27 +1,24 @@
 {
 	"name": "my_collection",
-	"cartridges": [
-		{ 
-		  "folder": {
-		     "name": "FOSS_Java",
-		     "display_name": "FOSS Java",
-		     "description": "Lols"
-		  },
-		  "cartridge": {
+	"cartridges": [{
+		"folder": {
+			"name": "FOSS_Java",
+			"display_name": "FOSS Java",
+			"description": "Lols"
+		},
+		"cartridge": {
 			"url": "https://github.com/Accenture/adop-cartridge-java.git",
 			"desc": "Sample Java cartridge"
-		  }
+		}
+	}, {
+		"folder": {
+			"name": "Cartridge_Dev",
+			"display_name": "Cartridge Development Cartridge",
+			"description": "Lols again"
 		},
-		{ 
-		  "folder": {
-		     "name": "Cartridge_Dev",
-		     "display_name": "Cartridge Development Cartridge",
-		     "description": "Lols again"
-		  },
-		  "cartridge": {
+		"cartridge": {
 			"url": "https://github.com/Accenture/adop-cartridge-cartridge-dev.git",
 			"desc": "Cartridge to allow rapid development of other cartridges"
-		  }
 		}
-	]
+	}]
 }
