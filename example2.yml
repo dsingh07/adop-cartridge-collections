@@ -1,8 +1,0 @@
-name: Initial_Collection
-cartridge_count: 2
-Cartridge1:
-    folder: FOSS_Java
-    url: https://github.com/Accenture/adop-cartridge-java.git
-Cartridge2:
-    folder: Cartridge_Development_Cartridge
-    url: https://github.com/Accenture/adop-cartridge-cartridge-dev.git
