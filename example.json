@@ -1,12 +1,23 @@
 {
 	"name": "my_collection",
 	"cartridges": [
-		{ "folder": "A",
+		{ 
+		  "folder": {
+		     "name": "A",
+		     "display_name": "A_Display",
+		     "description": "some_desc"
+		  },
 		  "cartridge": {
-			"url": "some_url"
+			"url": "some_url",
+			"desc": "lols"
 		  }
 		},
-		{ "folder": "B",
+		{ 
+		  "folder": {
+		     "name": "B",
+		     "display_name": "B_Display",
+		     "description": "some_desc"
+		  },
 		  "cartridge": {
 			"url": "some_url_2"
 		  }
