@@ -3,23 +3,24 @@
 	"cartridges": [
 		{ 
 		  "folder": {
-		     "name": "A",
-		     "display_name": "A_Display",
-		     "description": "some_desc"
+		     "name": "FOSS_Java",
+		     "display_name": "FOSS Java",
+		     "description": "Lols"
 		  },
 		  "cartridge": {
-			"url": "some_url",
-			"desc": "lols"
+			"url": "https://github.com/Accenture/adop-cartridge-java.git",
+			"desc": "Sample Java cartridge"
 		  }
 		},
 		{ 
 		  "folder": {
-		     "name": "B",
-		     "display_name": "B_Display",
-		     "description": "some_desc"
+		     "name": "Cartridge_Dev",
+		     "display_name": "Cartridge Development Cartridge",
+		     "description": "Lols again"
 		  },
 		  "cartridge": {
-			"url": "some_url_2"
+			"url": "https://github.com/Accenture/adop-cartridge-cartridge-dev.git",
+			"desc": "Cartridge to allow rapid development of other cartridges"
 		  }
 		}
 	]
