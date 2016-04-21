@@ -4,7 +4,7 @@
 		"folder": {
 			"name": "FOSS_Java",
 			"display_name": "FOSS Java",
-			"description": "Lols"
+			"description": "Java Environment and pipeline jobs"
 		},
 		"cartridge": {
 			"url": "https://github.com/Accenture/adop-cartridge-java.git",
@@ -14,7 +14,7 @@
 		"folder": {
 			"name": "Cartridge_Dev",
 			"display_name": "Cartridge Development Cartridge",
-			"description": "Lols again"
+			"description": "Jobs to allow rapid development of cartridges"
 		},
 		"cartridge": {
 			"url": "https://github.com/Accenture/adop-cartridge-cartridge-dev.git",
