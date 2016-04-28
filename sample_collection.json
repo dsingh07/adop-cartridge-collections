@@ -1,0 +1,13 @@
+{
+	"name": "sample_collection",
+	"extensions": [
+	  {
+			"url": "https://github.com/dsingh07/adop-platform-extension-specification.git",
+			"description": "Sample EC2 platform extension"
+	  }, 
+	  {
+			"url": "https://github.com/dsingh07/adop-platform-extension-specification.git",
+			"description": "Sample EC2 platform extension"
+		}
+	]
+}
