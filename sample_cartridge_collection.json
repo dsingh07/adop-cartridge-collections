@@ -1,5 +1,5 @@
 {
-	"name": "DOA_Cartridge_Collection",
+	"name": "my_collection",
 	"cartridges": [{
 		"folder": {
 			"name": "FOSS_Java",
@@ -8,37 +8,17 @@
 		},
 		"cartridge": {
 			"url": "https://github.com/Accenture/adop-cartridge-java.git",
-			"desc": "FOSS Java cartridge"
+			"desc": "Sample Java cartridge"
 		}
 	}, {
 		"folder": {
-			"name": "Lab_FOSS_Java",
-			"display_name": "Lab FOSS Java",
-			"description": "Java Environment and pipeline jobs to be used for Module 3 and 4"
+			"name": "Cartridge_Dev",
+			"display_name": "Cartridge Development Cartridge",
+			"description": "Jobs to allow rapid development of cartridges"
 		},
 		"cartridge": {
-			"url": "git@innersource.accenture.com:adop/adop-cartridge-java-doa.git",
-			"desc": "FOSS Java Cartridge"
-		}
-	}, {
-		"folder": {
-			"name": "DOA_Labs",
-			"display_name": "DevOps Academy Labs",
-			"description": "Miscellaneous jobs for Module 7 and 8"
-		},
-		"cartridge": {
-			"url": "git@innersource.accenture.com:adop/adop-cartridge-doa-labs.git",
-			"desc": "DevOps Academy Lab Cartridge"
-		}
-	}, {
-		"folder": {
-			"name": "Docker_Cartridge",
-			"display_name": "Docker Cartridge",
-			"description": "Example Docker Continuous Integration Pipeline"
-		},
-		"cartridge": {
-			"url": "git@innersource.accenture.com:adop/adop-cartridge-docker-doa.git",
-			"desc": "Example Docker CI cartridge"
+			"url": "https://github.com/Accenture/adop-cartridge-cartridge-dev.git",
+			"desc": "Cartridge to allow rapid development of other cartridges"
 		}
 	}]
 }
